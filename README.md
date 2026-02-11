@@ -78,7 +78,7 @@ Mobile optimization
 
 
 ## My Contribution
-Backend logic implementation
-Database schema design
-Authentication system
-Post & interaction modules
+Backend logic implementation,
+Database schema design,
+Authentication system,
+Post & interaction modules,
