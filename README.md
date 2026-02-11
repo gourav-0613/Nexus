@@ -10,45 +10,45 @@ The project focuses on building a clean, scalable social platform using core web
 
 
 ## Tech Stack
-Frontend: HTML, CSS, JavaScript
-Backend: Core PHP
-Database: MySQL
-Server: Apache (XAMPP)
+1. Frontend: HTML, CSS, JavaScript
+2. Backend: Core PHP
+3. Database: MySQL
+4. Server: Apache (XAMPP)
 
 
 
 
 
 ## Features
-User Registration & Login (Session-based authentication)
-Profile Management (Edit details, profile image)
-Create / Delete Posts
-Like & Comment System
-Follow / Unfollow Users
-Public / Private Account Toggle
-Dark Mode Support
+1. User Registration & Login (Session-based authentication)
+2. Profile Management (Edit details, profile image)
+3. Create / Delete Posts
+4. Like & Comment System
+5. Follow / Unfollow Users
+6. Public / Private Account Toggle
+7. Dark Mode Support
 
 
 
 
 ## Database Design
-Relational schema with optimized tables:
-Users
-Posts
-Comments
-Likes
-Follows
-Implements proper foreign key relationships and CRUD operations.
+1. Relational schema with optimized tables:
+2. Users
+3. Posts
+4. Comments
+5. Likes
+6. Follows
+7. Implements proper foreign key relationships and CRUD operations.
 
 
 
 
 ## Key Technical Highlights
-Server-side rendering using PHP
-Session management for authentication
-Relational database modeling
-Secure data handling
-Structured 3-tier architecture
+1. Server-side rendering using PHP
+2. Session management for authentication
+3. Relational database modeling
+4. Secure data handling
+5. Structured 3-tier architecture
 
 
 
