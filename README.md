@@ -56,9 +56,9 @@ Structured 3-tier architecture
 ## Run Locally
 git clone https://github.com/your-username/nexus.git
 
-1.Move project to htdocs/
-2.Start Apache & MySQL (XAMPP)
-3.Import the SQL file into phpMyAdmin
+1.Move project to htdocs/,
+2.Start Apache & MySQL (XAMPP),
+3.Import the SQL file into phpMyAdmin,
 4.Open in browser:
 http://localhost/project-folder
 
@@ -78,7 +78,7 @@ Mobile optimization
 
 
 ## My Contribution
-Backend logic implementation,
-Database schema design,
-Authentication system,
-Post & interaction modules,
+1. Backend logic implementation,
+2. Database schema design,
+3. Authentication system,
+4. Post & interaction modules,
